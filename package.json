@@ -92,7 +92,7 @@
     "prettier": "1.11.1",
     "react-test-renderer": "^16.13.0",
     "redux-devtools-extension": "^2.13.8",
-    "redux-mock-store": "^1.5.3",
+    "redux-mock-store": "^1.5.4",
     "supertest": "^3.1.0",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.1.0"
