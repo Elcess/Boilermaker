@@ -62,7 +62,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.17",
     "@babel/plugin-proposal-class-properties": "7.12.13",
-    "@babel/plugin-proposal-decorators": "7.12.13",
+    "@babel/plugin-proposal-decorators": "7.13.5",
     "@babel/plugin-proposal-export-namespace-from": "7.12.13",
     "@babel/plugin-proposal-function-sent": "7.12.13",
     "@babel/plugin-proposal-json-strings": "7.12.13",
@@ -73,7 +73,7 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.12.17",
     "@babel/preset-react": "^7.12.13",
-    "@babel/register": "^7.12.13",
+    "@babel/register": "^7.13.0",
     "axios-mock-adapter": "^1.19.0",
     "babel-eslint": "^8.2.6",
     "babel-loader": "^8.2.2",
