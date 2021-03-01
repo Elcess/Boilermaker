@@ -73,7 +73,7 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.13.5",
     "@babel/preset-react": "^7.12.13",
-    "@babel/register": "^7.13.0",
+    "@babel/register": "^7.13.8",
     "axios-mock-adapter": "^1.19.0",
     "babel-eslint": "^8.2.6",
     "babel-loader": "^8.2.2",
