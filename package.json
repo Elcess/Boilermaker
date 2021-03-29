@@ -72,7 +72,7 @@
     "@babel/plugin-syntax-import-meta": "7.10.4",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.13.12",
-    "@babel/preset-react": "^7.12.13",
+    "@babel/preset-react": "^7.13.13",
     "@babel/register": "^7.13.8",
     "axios-mock-adapter": "^1.19.0",
     "babel-eslint": "^8.2.6",
