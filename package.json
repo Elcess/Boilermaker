@@ -85,7 +85,7 @@
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-react": "^7.30.0",
     "husky": "^8.0.1",
-    "lint-staged": "^12.4.1",
+    "lint-staged": "^12.4.2",
     "mocha": "^10.0.0",
     "nodemon": "^2.0.16",
     "npm-merge-driver": "^2.3.6",
